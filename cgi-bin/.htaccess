@@ -1,0 +1,4 @@
+AuthType        basic
+require         valid-user
+AuthName        "Recipe Handler"
+AuthUserFile    /home/josh/dev/josh_svn/dev/jhdc_features/recipe_handler/bin/add/.htpasswd

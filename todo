@@ -1,0 +1,16 @@
+[ ] search by ingredient
+    ack -ail $search_term
+[ ] search by tags
+[ ] add/remove tags
+
+css
+    make the big recipe font nicer
+    make search box huge if many recipes are displayed, smaller if only one is
+
+add jquery effects to:
+    clear_results
+
+features
+    add categories
+        display categories next to recipe title in list
+        search accepts category name
