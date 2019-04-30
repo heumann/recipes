@@ -76,6 +76,7 @@ all_recipes = {
     "fried_noodles":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/fried_noodles",
     "fruit_crisp":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/fruit_crisp",
     "ginger snap":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/ginger snap",
+    "german_chocolate_cake":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/german_chocolate_cake",
     "ginger_cake_with_caramel_icing":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/ginger_cake_with_caramel_icing",
     "granola":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/granola",
     "greek yogurt vanilla pound cake":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/greek yogurt vanilla pound cake",
