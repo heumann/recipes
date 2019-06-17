@@ -140,6 +140,7 @@ all_recipes = {
     "sauerkraut":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/sauerkraut",
     "savory_tart":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/savory_tart",
     "scones":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/scones",
+    "shortcake":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/shortcake",
     "snickerdoodles":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/snickerdoodles",
     "sour_cream_icing":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/sour_cream_icing",
     "speckilatzios":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/speckilatzios",
