@@ -153,6 +153,7 @@ all_recipes = {
     "sweet_muffins":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/sweet_muffins",
     "tapioca_pudding":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/tapioca_pudding",
     "tartiflette":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/tartiflette",
+    "tatin":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/tatin",
     "tempeh_and_veggies":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/tempeh_and_veggies",
     "thin_mints":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/thin_mints",
     "timitar_murghi":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/timitar_murghi",
