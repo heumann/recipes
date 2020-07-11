@@ -29,6 +29,7 @@ all_recipes = {
     "carrot_salad":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/carrot_salad",
     "celery_soup":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/celery_soup",
     "chai":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/chai",
+    "challah_internet":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/challah_internet",
     "challah_judy_heumann":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/challah_judy_heumann",
     "challah_sarah_rosen":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/challah_sarah_rosen",
     "charoses":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/charoses",
