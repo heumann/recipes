@@ -30,6 +30,7 @@ all_recipes = {
     "celery_soup":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/celery_soup",
     "chai":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/chai",
     "challah_internet":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/challah_internet",
+    "challah_jared_goodman":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/challah_jared_goodman",
     "challah_judy_heumann":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/challah_judy_heumann",
     "challah_sarah_rosen":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/challah_sarah_rosen",
     "charoses":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/charoses",
