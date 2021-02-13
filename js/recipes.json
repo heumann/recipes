@@ -156,6 +156,7 @@ all_recipes = {
     "stuffed_peppers":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/stuffed_peppers",
     "stuffing":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/stuffing",
     "sweet_muffins":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/sweet_muffins",
+    "roast_chicken_with_vegetables_and_potatoes":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/roast_chicken_with_vegetables_and_potatoes",
     "tapioca_pudding":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/tapioca_pudding",
     "tartiflette":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/tartiflette",
     "tempeh_and_veggies":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/tempeh_and_veggies",
