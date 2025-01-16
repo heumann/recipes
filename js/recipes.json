@@ -39,6 +39,7 @@ all_recipes = {
     "cheesecake":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/cheesecake",
     "cheese raviolli":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/cheese raviolli",
     "cheese_tortellini":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/cheese_tortellini",
+    "chewy_brownies":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/chewy_brownies",
     "chicken_divan":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/chicken_divan",
     "chicken stock":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/chicken stock",
     "chicken_cacciatore.jpg":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/chicken_cacciatore.jpg",
