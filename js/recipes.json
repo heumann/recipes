@@ -3,6 +3,7 @@ all_recipes = {
     "almond cookies":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/almond cookies",
     "amy's granola":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/amy's granola",
     "angel_food_cake":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/angel_food_cake",
+    "apple fritters":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/apple_fritters",
     "apple pie":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/apple pie",
     "avocado_pie":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/avocado_pie",
     "bagels":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/bagels",
