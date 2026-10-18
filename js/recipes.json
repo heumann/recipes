@@ -102,6 +102,7 @@ all_recipes = {
     "macaroni_and_cheese":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/macaroni_and_cheese",
     "mango_pie":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/mango_pie",
     "manicotti":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/manicotti",
+    "maple_glaze":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/maple_glaze",
     "marinara sauce from fresh or frozen tomatoes":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/marinara sauce from fresh or frozen tomatoes",
     "mashed_potatoes":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/mashed_potatoes",
     "mayonnaise":"https://raw.githubusercontent.com/heumann/recipes/master/recipe/mayonnaise",
